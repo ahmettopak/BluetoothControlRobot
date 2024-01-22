@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.bluetoothcontroledrobot'
+    namespace 'com.ahmet.bluetoothcontroledrobot'
     compileSdk 34
 
     defaultConfig {
-        applicationId "com.example.bluetoothcontroledrobot"
+        applicationId "com.ahmet.bluetoothcontroledrobot"
         minSdk 24
         targetSdk 34
         versionCode 1

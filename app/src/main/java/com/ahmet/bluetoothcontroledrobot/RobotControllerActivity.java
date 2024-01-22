@@ -1,4 +1,4 @@
-package com.example.bluetoothcontroledrobot;
+package com.ahmet.bluetoothcontroledrobot;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.app.ActivityCompat;
@@ -21,7 +21,7 @@ import android.widget.ListView;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.example.bluetoothcontroledrobot.databinding.ActivityRobotControllerBinding;
+import com.ahmet.bluetoothcontroledrobot.databinding.ActivityRobotControllerBinding;
 
 import java.io.FileNotFoundException;
 import java.io.IOException;
